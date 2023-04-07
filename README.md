@@ -1,4 +1,4 @@
-## Hello, my name is Luiz Miguel Cavilha, and that is my GitHub 😊
+## Hello, my name is Luiz Miguel Cavilha, and that's my GitHub 😊
 
 :computer: I'm Front-End Developer!
 
