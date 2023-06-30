@@ -12,7 +12,7 @@
 - Thanks for visiting.
 
 - Enjoy it!! o/
-<br> 
+
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-miguel-cavilha-61a311242/)
 <br>
 
