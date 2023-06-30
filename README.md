@@ -8,13 +8,11 @@
 
 :outbox_tray: 2023 Goals: create a lot of projects and find a new job.
 
-## About me
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-miguel-cavilha-61a311242/)
 - Thanks for visiting.
 
 - Enjoy it!! o/
-
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-miguel-cavilha-61a311242/)
 <br>
 
 ![chibi-jotaro](https://user-images.githubusercontent.com/105825797/230626333-7e25a0f7-cafb-4849-8164-8781b2b6a874.png)
