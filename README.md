@@ -13,7 +13,7 @@
 
 - Enjoy it!! o/
 
-<a href = "https://www.linkedin.com/in/luiz-miguel-cavilha-61a311242/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=jMaYUGSAcXwmDAowF-8a2Ln4SSD8GYlqa0zsOunVjOqyHpBc1d_Xst7FOJJpCQFyXfB97gsmFmjfa9EBHygRT3SXNEQ1&wa=wsignin1.0" target="_blank"><img src = "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a> <a href = "https://steamcommunity.com/profiles/76561198159905012/" target="_blank"><img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/luiz-miguel-cavilha-61a311242/" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> <a href = "https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=jMaYUGSAcXwmDAowF-8a2Ln4SSD8GYlqa0zsOunVjOqyHpBc1d_Xst7FOJJpCQFyXfB97gsmFmjfa9EBHygRT3SXNEQ1&wa=wsignin1.0" target="_blank"><img src = "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="blank"></a> <a href = "https://steamcommunity.com/profiles/76561198159905012/" target="_blank"><img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 ![chibi-jotaro](https://user-images.githubusercontent.com/105825797/230626333-7e25a0f7-cafb-4849-8164-8781b2b6a874.png)
 
