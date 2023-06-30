@@ -10,7 +10,7 @@
 
 ## About me
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-miguel-cavilha-61a311242/)     ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/miguelcavilha/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-miguel-cavilha-61a311242/)
 - Thanks for visiting.
 
 - Enjoy it!! o/
