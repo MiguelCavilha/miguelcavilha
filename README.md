@@ -6,7 +6,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2023 Goals: create a lot of projects and find a new job.
+:outbox_tray: 2025 Goals: create new projects and find a new job.
 
 
 - Thanks for visiting.
