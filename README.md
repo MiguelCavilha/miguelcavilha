@@ -1,6 +1,6 @@
 ## Hello, my name is Luiz Miguel Cavilha, and that's my GitHub 😊
 
-:computer: I'm Front-End Developer!
+:computer: I'm Beginner Developer!
 
 :house_with_garden: I’m from Brazil.
 
