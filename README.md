@@ -56,13 +56,13 @@ I enjoy combining **data + code + games**: from dashboards for decision‑making
 ***
 <div align="center">
 
-<!-- Main stats card -->
-<a href="https://github.com/MiguelCavilha"> <img height="160" src="https://github-readme-stats.vercel.app/api username=MiguelCavilha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelCavilha&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+</div>
 
-<!-- Top languages card -->
-<a href="https://github.com/MiguelCavilha"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCavilha&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelCavilha&theme=github-dark&hide_border=true" />
+</div>
 
   <!-- Streak card -->
   <a href="https://github.com/MiguelCavilha">
