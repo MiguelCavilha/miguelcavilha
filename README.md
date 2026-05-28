@@ -54,17 +54,13 @@ I enjoy combining **data + code + games**: from dashboards for decision‑making
 ```
 
 ***
-<div align="center">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelCavilha&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelCavilha&theme=github-dark&hide_border=true" />
 </div>
 
   <!-- Streak card -->
+  <div align="center">
   <a href="https://github.com/MiguelCavilha">
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelCavilha&theme=radical&hide_border=true" />
   </a>
