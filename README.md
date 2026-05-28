@@ -54,9 +54,6 @@ I enjoy combining **data + code + games**: from dashboards for decision‑making
 ```
 
 ***
-
-## 📊 GitHub cards
-
 <div align="center">
 
   <!-- Main stats card -->
@@ -75,10 +72,7 @@ I enjoy combining **data + code + games**: from dashboards for decision‑making
   </a>
 
 </div>
-
 ***
-
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelCavilha/MiguelCavilha/output/github-contribution-grid-snake-dark.svg" />
@@ -101,11 +95,6 @@ I enjoy combining **data + code + games**: from dashboards for decision‑making
 
 ***
 
-## 🔧 Daily tools
-
-
-
-***
 
 ## 📫 Contact
 
