@@ -56,15 +56,21 @@ I enjoy combining **data + code + games**: from dashboards for decision‑making
 ***
 <div align="center">
 
-  <!-- Main stats card -->
-  <a href="https://github.com/MiguelCavilha">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=MiguelCavilha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
+<!-- Main stats card -->
+<a href="https://github.com/MiguelCavilha">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=MiguelCavilha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+  />
+</a>
 
-  <!-- Top languages card -->
-  <a href="https://github.com/MiguelCavilha">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCavilha&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  </a>
+<!-- Top languages card -->
+<a href="https://github.com/MiguelCavilha">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCavilha&layout=compact&langs_count=8&theme=radical&hide_border=true"
+  />
+</a>
 
   <!-- Streak card -->
   <a href="https://github.com/MiguelCavilha">
