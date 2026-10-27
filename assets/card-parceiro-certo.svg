@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="190" viewBox="0 0 590 190" role="img" aria-label="parceiro-certo-refatorado">
+  <defs>
+    <filter id="glow" x="-10%" y="-20%" width="120%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12052a"/>
+      <stop offset="1" stop-color="#05010d"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#39ff14"/>
+      <stop offset="1" stop-color="#b026ff"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.3"/></pattern>
+    <style>
+      .mono { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; }
+      .b { font-weight: 700; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <path d="M6 6 H548 L584 42 V184 H42 L6 148 Z" fill="url(#bg)"/>
+  <path d="M6 6 H548 L584 42 V184 H42 L6 148 Z" fill="url(#scan)"/>
+  <path class="pulse" d="M6 6 H548 L584 42 V184 H42 L6 148 Z" fill="none" stroke="url(#edge)" stroke-width="2" filter="url(#glow)"/>
+  <text x="30" y="38" class="mono b" font-size="13" letter-spacing="2" fill="#ff2a6d">// PLATFORM · TEXTILE INDUSTRY</text>
+  <text x="30" y="70" class="mono b" font-size="25" fill="#39ff14" filter="url(#glow)">parceiro-certo-refatorado</text>
+  <g class="mono" font-size="15" fill="#d9d2ff">
+    <text x="30" y="102">Connects textile companies in Vale do Itajaí</text>
+    <text x="30" y="124">with business partners. Refactored with cleaner</text>
+    <text x="30" y="146">code and a modern, responsive design.</text>
+  </g>
+  <circle cx="36" cy="168" r="6" fill="#563d7c" filter="url(#glow)"/>
+  <text x="50" y="173" class="mono" font-size="14" fill="#9f95c9">HTML · CSS</text>
+  <text x="560" y="173" text-anchor="end" class="mono b" font-size="14" fill="#05d9e8">OPEN REPO &gt;&gt;</text>
+</svg>

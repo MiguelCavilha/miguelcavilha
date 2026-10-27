@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="End of transmission">
+  <defs>
+    <filter id="glow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="wave" x1="0" x2="1">
+      <stop offset="0" stop-color="#05d9e8" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#05d9e8"/>
+      <stop offset="0.5" stop-color="#b026ff"/>
+      <stop offset="0.8" stop-color="#ff2a6d"/>
+      <stop offset="1" stop-color="#ff2a6d" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-weight: 700; }
+      .flicker { animation: flicker 5s infinite; }
+      @keyframes flicker { 0%, 40%, 44%, 100% { opacity: 1; } 42% { opacity: 0.3; } }
+    </style>
+  </defs>
+  <path fill="none" stroke="url(#wave)" stroke-width="2.5" filter="url(#glow)" d="M0 40 Q75 10 150 40 T300 40 T450 40 T600 40 T750 40 T900 40 T1050 40 T1200 40">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="M0 40 Q75 10 150 40 T300 40 T450 40 T600 40 T750 40 T900 40 T1050 40 T1200 40;
+              M0 40 Q75 70 150 40 T300 40 T450 40 T600 40 T750 40 T900 40 T1050 40 T1200 40;
+              M0 40 Q75 10 150 40 T300 40 T450 40 T600 40 T750 40 T900 40 T1050 40 T1200 40"/>
+  </path>
+  <path fill="none" stroke="url(#wave)" stroke-width="1.5" opacity="0.5" filter="url(#glow)" d="M0 40 Q100 60 200 40 T400 40 T600 40 T800 40 T1000 40 T1200 40">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite"
+      values="M0 40 Q100 60 200 40 T400 40 T600 40 T800 40 T1000 40 T1200 40;
+              M0 40 Q100 20 200 40 T400 40 T600 40 T800 40 T1000 40 T1200 40;
+              M0 40 Q100 60 200 40 T400 40 T600 40 T800 40 T1000 40 T1200 40"/>
+  </path>
+  <text x="600" y="98" text-anchor="middle" class="mono flicker" font-size="18" letter-spacing="4" fill="#05d9e8" filter="url(#glow)">// END OF TRANSMISSION · SEE YOU IN THE NEON //</text>
+</svg>
